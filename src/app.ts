@@ -11,5 +11,17 @@ startStop()
 race()
 reset()
 
-alert('Здравствуйте, не могли бы вы проверить мою работу в конце кросс чека. Заранее спасибо <3')
+    // document.addEventListener('click',function(co:any){
+    //     if (co.target.id == 'str'){
+    //         console.log('YES');
+    //     }else {
+    //         console.log('NO');
+            
+    //     }
+
+        
+    // })
+
+
+// alert('Здравствуйте, не могли бы вы проверить мою работу в конце кросс чека. Заранее спасибо <3')
 anim()
