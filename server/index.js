@@ -1,5 +1,3 @@
-import app from './app.js';
-alert('hello')
 const jsonServer = require('json-server');
 
 const db = {
