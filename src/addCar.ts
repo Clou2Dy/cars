@@ -8,6 +8,7 @@ export default function addingCars() {
     document.querySelector(".cars").appendChild(cars) 
     document.querySelector(`.namCar${i}`).textContent =  document.querySelector<HTMLInputElement>('.inpCreat').value
     document.querySelector<HTMLInputElement>(`.carColor${i}`).style.backgroundColor =  document.querySelector<HTMLInputElement>(".createColor").value
+    
 })
 }
 
