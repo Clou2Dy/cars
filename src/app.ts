@@ -3,6 +3,7 @@ import {win,garage} from './views'
 import addingCars from './addCar'
 import {startStop, race, reset} from './startStop'
 import anim from './animation'
+import deleteCar from './deleteCar'
 
 win()
 garage()
@@ -11,5 +12,6 @@ startStop()
 race()
 reset()
 anim()
-alert('Здравствуйте, не могли бы вы проверить мою работу в конце кросс чека. Заранее спасибо  <3')
+deleteCar()
+// alert('Здравствуйте, не могли бы вы проверить мою работу в конце кросс чека. Заранее спасибо  <3')
 
